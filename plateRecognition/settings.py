@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-bk=($2wm*lb!5*_!=+mfuhr%wsemv^gj^2a3c_wh%fav%+7s9d
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["127.0.0.1", "localhost", "0.0.0.0", "https://car-plate-detection.netlify.app"]
+ALLOWED_HOSTS = ["127.0.0.1", "localhost", "0.0.0.0", "https://car-plate-detection.netlify.app", "car-plate-detector.herokuapp.com"]
 
 CORS_ALLOW_ALL_ORIGINS = True
 
