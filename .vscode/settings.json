@@ -4,6 +4,7 @@
         "easyocr",
         "imdecode",
         "IMREAD",
+        "imsave",
         "imutils",
         "keypoints",
         "readtext"
