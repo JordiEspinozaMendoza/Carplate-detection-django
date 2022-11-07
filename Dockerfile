@@ -13,4 +13,4 @@ RUN python -m pip install --upgrade pip
 
 COPY . /code/
 
-CMD gunicorn backend.wsgi --bind 0.0.0.0:$PORT
+CMD gunicorn plateRecognition.wsgi --bind 0.0.0.0:$PORT
